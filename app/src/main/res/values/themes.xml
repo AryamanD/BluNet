@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BluNet" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/status</item>
+    </style>
+    <style name="Theme.BluNet" parent="Base.Theme.BluNet" />
+</resources>
